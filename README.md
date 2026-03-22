@@ -1,6 +1,6 @@
 # Hi, I'm Fatih 👋
 
-I'm a 3rd-year Software Engineering student passionate about building things across **mobile**, **backend**, **frontend**, and **AI/ML**.  
+I'm a 3rd-year **Software Engineering** student passionate about building things across **mobile**, **backend**, **frontend**, and **AI/ML**.  
 Currently focused on deepening my skills and working on personal projects to grow as a developer.
 
 ---
@@ -10,11 +10,13 @@ Currently focused on deepening my skills and working on personal projects to gro
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![Spring](https://skillicons.dev/icons?i=spring)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![Dart](https://skillicons.dev/icons?i=dart)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
@@ -22,7 +24,18 @@ Currently focused on deepening my skills and working on personal projects to gro
 
 - 📱 Building mobile apps with **Flutter**
 - 🤖 Exploring **Machine Learning** with Python
-- 🌐 Learning **backend development**
+- 🌐 Learning **backend development** with Spring Boot
+- 📊 Working on algorithm analysis and data structures
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🌤️ Weather Prediction](https://github.com/fatihbarutcu1/weather-prediction) | ML model for daily temperature forecasting | Python, Scikit-learn, Pandas |
+| [📚 Library API](https://github.com/fatihbarutcu1/library-api) | RESTful API for library management | Java, Spring Boot, JPA |
+| [📊 Sorting Visualizer](https://github.com/fatihbarutcu1/sorting-visualizer) | Performance analysis of 6 sorting algorithms | Python, Matplotlib |
 
 ---
 
@@ -37,5 +50,5 @@ Currently focused on deepening my skills and working on personal projects to gro
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/fatihbarutcu1)
+- 💼 [LinkedIn](https://linkedin.com/in/ucturabfatih1)
 - 📧 ucturabfatih@gmail.com
